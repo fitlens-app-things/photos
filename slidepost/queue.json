@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "request_id": "sample_migration_20261114_v2",
+      "approved": false,
+      "publish_at": "2026-11-15T00:42:00.278Z",
+      "expires_at": "2026-11-16T00:42:00.278Z",
+      "images": [
+        "https://fitlens-app-things.github.io/photos/fitl/sample-migration-v2/01.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/sample-migration-v2/02.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/sample-migration-v2/03.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/sample-migration-v2/04.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/sample-migration-v2/05.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/sample-migration-v2/06.jpg"
+      ],
+      "title": "3 gym habits keeping you stuck",
+      "description": "3 gym habits keeping you stuck. save for your next gym day.\n\n#gymgirl #gymtok #gymprogress #workouttips #formcheck",
+      "privacy": "PUBLIC_TO_EVERYONE",
+      "promotes_own_business": true
+    }
+  ]
+}
