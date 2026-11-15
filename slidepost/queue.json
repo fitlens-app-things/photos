@@ -3,7 +3,7 @@
   "posts": [
     {
       "request_id": "sample_migration_20261114_v2",
-      "approved": false,
+      "approved": true,
       "publish_at": "2026-11-15T00:42:00.278Z",
       "expires_at": "2026-11-16T00:42:00.278Z",
       "images": [
