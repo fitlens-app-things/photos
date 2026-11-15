@@ -18,6 +18,25 @@
       "description": "3 gym habits keeping you stuck. save for your next gym day.\n\n#gymgirl #gymtok #gymprogress #workouttips #formcheck",
       "privacy": "PUBLIC_TO_EVERYONE",
       "promotes_own_business": true
+    },
+    {
+      "request_id": "casey_20261115_morning",
+      "approved": true,
+      "publish_at": "2026-11-15T13:23:18.053314+00:00",
+      "expires_at": "2026-11-15T14:00:00+00:00",
+      "images": [
+        "https://fitlens-app-things.github.io/photos/fitl/2026-11-15/morning-checks-before-weight/01.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/2026-11-15/morning-checks-before-weight/02.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/2026-11-15/morning-checks-before-weight/03.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/2026-11-15/morning-checks-before-weight/04.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/2026-11-15/morning-checks-before-weight/05.jpg",
+        "https://fitlens-app-things.github.io/photos/fitl/2026-11-15/morning-checks-before-weight/06.jpg"
+      ],
+      "title": "3 checks before you add more weight",
+      "hook": "3 checks before you add more weight",
+      "description": "3 checks before you add more weight. save this for your next lifting day.\n\n#gymgirl #gymtok #progressiveoverload #liftingtips #formcheck",
+      "privacy": "PUBLIC_TO_EVERYONE",
+      "promotes_own_business": true
     }
   ]
 }
